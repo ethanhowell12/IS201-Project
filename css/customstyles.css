@@ -1,0 +1,20 @@
+.bckgr {
+    background-image: url('../assets/img/portfolio/beigebackgroundimage.jpeg');
+}
+.europe {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    right: 50px;
+}
+.america {
+    color: blue;
+    right: 50px;
+}
+.basketball {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.body {
+    background-image: beige;
+    background-position: top right;
+}
